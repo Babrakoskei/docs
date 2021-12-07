@@ -1,5 +1,5 @@
-site_name: MkLorum
-site_url: https://example.com/
+site_name: Terms and conditions
+site_url: https://churpy.co
 nav:
     - Home: index.md
     - About: about.md
